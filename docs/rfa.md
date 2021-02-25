@@ -1,5 +1,5 @@
 
-# Request for Articles (RFA)
+# Request for Article (RFA) List
 
 If you are looking for topic inspiration, Vultr has many writing opportunities available! Please see our Request for Article list below. If you are new to Vultr Docs, we suggest working on some articles that need updates before choosing a topic from our new article list.
 
