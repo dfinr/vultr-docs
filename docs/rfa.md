@@ -21,6 +21,10 @@ If you are looking for topic inspiration, Vultr has many writing opportunities a
 | #644027681 | Open        | [Install Let's Encrypt SSL on LAMP & LEMP](https://www.vultr.com/docs/setup-letsencrypt-on-linux) |
 | #643423386 | Open        | [How to Install OpenMeetings on Ubuntu 16.04](https://www.vultr.com/docs/how-to-install-openmeetings-on-ubuntu-16-04) |
 | #643416786 | Open        | [Install PostgreSQL On CentOS 7](https://www.vultr.com/docs/install-postgresql-on-centos-7) |
+| #643416786 | Open        | [Install PostgreSQL On CentOS 7](https://www.vultr.com/docs/install-postgresql-on-centos-7) |
+| #648909225 | Open        | [How to Install and Configure Concourse CI on CentOS 7](https://www.vultr.com/docs/how-to-install-and-configure-concourse-ci-on-centos-7) |
+
+---
 
 ## Submission Process
 
