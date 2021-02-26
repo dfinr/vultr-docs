@@ -25,9 +25,6 @@ If you are looking for topic inspiration, Vultr has many writing opportunities a
 | #643416786 | Open        | [Install PostgreSQL On CentOS 7](https://www.vultr.com/docs/install-postgresql-on-centos-7) |
 | #648909225 | Open        | [How to Install and Configure Concourse CI on CentOS 7](https://www.vultr.com/docs/how-to-install-and-configure-concourse-ci-on-centos-7) |
 
-
-https://www.sweetmarias.com/brazil-dry-process-patroc%C3%ADnio-ricardo-vagne-6720.html
-
 ---
 
 ## Submission Process
