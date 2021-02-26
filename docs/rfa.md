@@ -11,6 +11,7 @@ If you are looking for topic inspiration, Vultr has many writing opportunities a
 | :----------| :---------- | :-----------|
 | #643432812 | Open        | **How to redirect from server IP address to domain name on Vultr One-Click WordPress App with Nginx**|
 | #647085292 | Open        | **How to Deploy a MERN Application at Vultr** |
+| #649337625 | Open        | **How to Install and Connect to a GUI Environment on Ubuntu 20.04 LTS.** |
 
 ## Articles that Need Updates
 
@@ -23,6 +24,9 @@ If you are looking for topic inspiration, Vultr has many writing opportunities a
 | #643416786 | Open        | [Install PostgreSQL On CentOS 7](https://www.vultr.com/docs/install-postgresql-on-centos-7) |
 | #643416786 | Open        | [Install PostgreSQL On CentOS 7](https://www.vultr.com/docs/install-postgresql-on-centos-7) |
 | #648909225 | Open        | [How to Install and Configure Concourse CI on CentOS 7](https://www.vultr.com/docs/how-to-install-and-configure-concourse-ci-on-centos-7) |
+
+
+https://www.sweetmarias.com/brazil-dry-process-patroc%C3%ADnio-ricardo-vagne-6720.html
 
 ---
 
