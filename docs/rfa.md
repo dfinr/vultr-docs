@@ -6,9 +6,9 @@ If you'd like an RFA assignment, please see the guide to [Vultr's Request for Ar
 
 | RFA ID    | RFA Title                                             | Type     | Tags                   | Notes                     |
 | :-------- | :---------------------------------------------------- | :------- | :--------------------- | :------------------------ |
-| 649337625 | How install and use a GUI on Ubuntu 20.04 LTS         | New      | Desktop Guides, Ubuntu |                           |
-| 647085292 | How to Deploy a MERN Application on Ubuntu            | New      | Ubuntu                 |                           |
-| 643432812 | Redirect WordPress IP to domain name                  | New      | WordPress, Nginx       |                           |
+| 649337625 | How install and use a GUI on Ubuntu 20.04 LTS         | New Doc  | Desktop Guides, Ubuntu |                           |
+| 647085292 | How to Deploy a MERN Application on Ubuntu            | New Doc  | Ubuntu                 | An author is assigned.    |
+| 643432812 | Redirect WordPress IP to domain name                  | New Doc  | WordPress, Nginx       |                           |
 | 648909225 | How to Install and Configure Concourse CI on CentOS 7 | Update   | CentOS                 |                           |
 | 643423386 | How to Install OpenMeetings on Ubuntu 20.04           | Update   | Ubuntu                 | An author is assigned.    |
 | 646022891 | How to Install RabbitMQ on CentOS 7                   | Update   | CentOS                 |                           |
